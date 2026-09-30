@@ -10,11 +10,12 @@ I build APIs, payment flows and third-party integrations — remotely, from Cric
 - Design and implement APIs in NestJS/TypeScript for production services
 - Build integrations and async delivery (queues, webhooks, retries, idempotency)
 - Ship payment flows with Stripe and Mercado Pago
-- Work with cloud and containers: AWS, GCP, Docker and Kubernetes
+- Work with cloud and containers: AWS, GCP, Oracle Cloud, Docker and Kubernetes
 
 ### Tech I work with daily
 
-TypeScript • Node.js • NestJS • PostgreSQL • Redis • Docker • AWS • GCP • Kubernetes
+TypeScript • Node.js • NestJS • PostgreSQL • Redis • Docker • AWS • GCP • Oracle Cloud • Kubernetes  
+Cursor • Claude Code
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -24,4 +25,7 @@ TypeScript • Node.js • NestJS • PostgreSQL • Redis • Docker • AWS �
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
